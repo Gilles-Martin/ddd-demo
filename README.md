@@ -1,4 +1,4 @@
-# ddd-demo
+# DDD - Domain Driven Design - :bookmark_tabs: Template
   Mise en place d'un template DDD
   Choix du sujet à venir....
 
